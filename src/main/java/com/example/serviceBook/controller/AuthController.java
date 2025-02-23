@@ -39,10 +39,7 @@ public class AuthController {
     }
 
 
-//    @PutMapping("/update")
-//    public ResponseEntity<List<User>> updatePassword() {
-//        return  new ResponseEntity<>(authService.updateP(), HttpStatus.OK);
-//    }
+
 }
 
 
